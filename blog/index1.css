@@ -1,0 +1,130 @@
+#padrino {
+    background-image: url(https://www.cinevistablog.com/wp-content/uploads/2022/02/the-godfather-en-su-aniversario-50-regresa-a-salas-de-cine-del-mundo_opt2_.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    font-size: 100px;
+}
+section {
+    background-image: linear-gradient(white, black);
+    color: gold;
+}
+#padrinoimg{
+    padding: 50px;
+}
+
+#ironman {
+    background-image: url(https://es.web.img3.acsta.net/newsv7/20/05/07/12/52/3980724.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
+
+#spiderman {
+    background-image: url(https://occ-0-1123-37.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcfM9ZIN6TinrHE9nIBqHDcrY2JfAudkw0qrCBt-7aM2k8m6GL1byD6KcNdFDqYW6su2aAa-asDuhSBFUMEmesWMWIXRNFRE2vxz.jpg?r=632);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
+
+#dragon {
+    color: white;
+    background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202206/1613/cx6LxyqCEYgGTAwg6HydTKJo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
+
+#rapido {
+    color: white;
+    background-image: url(https://sm.ign.com/t/ign_latam/screenshot/default/toret_p6aj.1280.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;  
+}
+
+#batman {
+    color: white;
+    background-image: url(https://media.vandalsports.com/master/3-2022/202231152353_1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
+#batman h1::before{
+    background-color: grey ;
+}
+#batman1{
+    background-image: linear-gradient(rgb(175, 45, 45), black);
+    padding: 20px;
+}
+#favorito{
+    width: 500px;
+}
+
+#superman {
+    color: white;
+    background-image: url(https://i.blogs.es/07ed99/81y7bjpvhol._ac_sl1500_/1366_2000.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
+#super{
+    background-image: linear-gradient( rgb(45, 84, 175), rgba(255, 255, 255, 0));
+    width: 500px;
+}
+
+#liga {
+    color: rgb(0, 0, 0);
+    background-image: url(https://i.blogs.es/930f15/justice-league-snyders-cut/1366_2000.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
+
+#inter{
+    color: white;
+    text-align: center;
+    background-image: url(https://i.blogs.es/0ba1d8/imagen-interstellar/1366_2000.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#estelar {
+    color: white;
+    background-image: url(https://i.blogs.es/25fad9/714563181_preview_interstellar_voyage-3840x2160/1366_2000.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
+#estelarimg{
+    margin: 15px;
+}
+
+#vengadores {
+    color: white;
+    background-image: url(https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2021/01/12/vengadores-marvel.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0%;
+}
